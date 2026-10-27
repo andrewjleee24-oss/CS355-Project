@@ -6,6 +6,6 @@ and track how much you spend and save per period. A pop-up window will appear ri
 ===============================
  Features:
 ===============================
-1. Highly customizable
-2. User friendly
+1. Highly customizable - You can set custom percents for goals
+2. User friendly - Easy to read and use
 3. 
